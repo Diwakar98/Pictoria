@@ -1,7 +1,10 @@
 # Pictoria
 Pictoria is a basic android application for searching high quality images and viewing it.
 
-## Features Used
+## Demonstration
+![](/readme_assets/1.gif)
+
+## Features
 
 It shows an animated Splash Screen with a beautiful User Interface.
 
