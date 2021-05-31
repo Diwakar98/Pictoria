@@ -15,7 +15,7 @@ It fetches the url of images using an API and then shows it in a RecyclerView us
 
 <img src="/readme_assets/view.png" width="250">
 
-##Libraries Used
+##Libraries
 
 1. **Retrofit**  (retrofit - 2.4.0) & (converter-gson - 2.2.0)
 - Used for sending GET request and receiving its response.
@@ -25,3 +25,6 @@ It fetches the url of images using an API and then shows it in a RecyclerView us
 
 3. **Lottie** - 3.7.0
 - Used for snimating the Splash Screen.
+
+##API
+[Pixabay API](https://pixabay.com/service/about/api/)
