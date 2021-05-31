@@ -9,4 +9,4 @@ It shows an animated Splash Screen with a beautiful User Interface.
 
 It has a search bar to search using the name.
 
-<img src="/readme_assets/search_bar.png" width="250">
+<img src="/readme_assets/search.png" width="250">
