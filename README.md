@@ -20,7 +20,7 @@ It fetches the url of images using an API and then shows it in a RecyclerView us
 1. **Retrofit** 
 - retrofit - 2.4.0
 - converter-gson - 2.2.0
-- - Used for sending GET request and receiving its response.
+-- Used for sending GET request and receiving its response.
 
 2. **Glide** - 4.6.1
 - - Used for displaying the images using the URL.
