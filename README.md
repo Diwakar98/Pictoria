@@ -27,4 +27,5 @@ It fetches the url of images using an API and then shows it in a RecyclerView us
 - Used for snimating the Splash Screen.
 
 ##API
+
 [Pixabay API](https://pixabay.com/service/about/api/)
